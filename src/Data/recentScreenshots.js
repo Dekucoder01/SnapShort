@@ -1,7 +1,7 @@
 export const recentScreenshots = [
   {
     id: 1,
-    previewImg: "/images/react-dashboard.png",
+    previewImg: "https://images.unsplash.com/photo-1687603921109-46401b201195?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     title: "React Dashboard UI",
     date: "09 Jul 2026",
     category: "Coding",
@@ -9,7 +9,7 @@ export const recentScreenshots = [
   },
   {
     id: 2,
-    previewImg: "/images/netflix-clone.png",
+    previewImg: "https://images.unsplash.com/photo-1567606404787-ebd010176fdf?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8TmV0ZmxpeCUyMGxlbmRpbmclMjBwYWdlfGVufDB8fDB8fHww",
     title: "Netflix Landing Page",
     date: "08 Jul 2026",
     category: "UI Design",
@@ -17,7 +17,7 @@ export const recentScreenshots = [
   },
   {
     id: 3,
-    previewImg: "/images/portfolio-home.png",
+    previewImg: "https://media.istockphoto.com/id/174750903/photo/template-website.webp?a=1&b=1&s=612x612&w=0&k=20&c=aB7YH_U_9WslHEI91e5zt1Q7_Gc3IPR-GYLNXBIM7lc=",
     title: "Portfolio Homepage",
     date: "07 Jul 2026",
     category: "Portfolio",
@@ -25,7 +25,31 @@ export const recentScreenshots = [
   },
   {
     id: 4,
-    previewImg: "/images/ecommerce-app.png",
+    previewImg: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8RS1jb21tZXJjZSUyMERhc2hib2FyZHxlbnwwfHwwfHx8MA%3D%3D",
+    title: "E-commerce Dashboard",
+    date: "06 Jul 2026",
+    category: "Web App",
+    tags: ["JavaScript", "Admin", "UI"],
+  },
+    {
+    id: 5,
+    previewImg: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8RS1jb21tZXJjZSUyMERhc2hib2FyZHxlbnwwfHwwfHx8MA%3D%3D",
+    title: "E-commerce Dashboard",
+    date: "06 Jul 2026",
+    category: "Web App",
+    tags: ["JavaScript", "Admin", "UI"],
+  },
+    {
+    id: 6,
+    previewImg: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8RS1jb21tZXJjZSUyMERhc2hib2FyZHxlbnwwfHwwfHx8MA%3D%3D",
+    title: "E-commerce Dashboard",
+    date: "06 Jul 2026",
+    category: "Web App",
+    tags: ["JavaScript", "Admin", "UI"],
+  },
+    {
+    id: 7,
+    previewImg: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8RS1jb21tZXJjZSUyMERhc2hib2FyZHxlbnwwfHwwfHx8MA%3D%3D",
     title: "E-commerce Dashboard",
     date: "06 Jul 2026",
     category: "Web App",

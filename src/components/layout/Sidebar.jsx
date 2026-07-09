@@ -5,7 +5,7 @@ import 'remixicon/fonts/remixicon.css'
 
 const Sidebar = () => {
   return (
-    <div className="w-64 m-4 border-gray-600 border-2 rounded-2xl bg-slate-800 pt-5 pl-5 ">
+    <div className="w-64  border-gray-600  bg-slate-900 pt-5 pl-5 ">
       <h1 className="text-2xl  font-bold mb-8">
         SnapSort
       </h1>

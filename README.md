@@ -1,8 +1,8 @@
 install this and import 
 
-npm install remixicon --save
+> npm install remixicon --save
 
-import 'remixicon/fonts/remixicon.css'
+> import 'remixicon/fonts/remixicon.css'
 
 
 
